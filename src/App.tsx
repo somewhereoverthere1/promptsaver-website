@@ -68,7 +68,7 @@ function App() {
             <FeatureCard
               icon={<Brain className="text-blue-500" size={24} />}
               title="AI Platform Support"
-              description="Works seamlessly with both ChatGPT and Claude interfaces"
+              description="Works seamlessly with both ChatGPT, Claude, and DeepSeek interfaces"
             />
             <FeatureCard
               icon={<Save className="text-emerald-500" size={24} />}
