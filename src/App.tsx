@@ -18,7 +18,7 @@ function App() {
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto leading-relaxed">
                 Save, organize, and reuse your most powerful AI prompts.<br className="hidden md:inline" />
-                Seamlessly integrated with ChatGPT and Claude.
+                Seamlessly integrated with ChatGPT, Claude, and DeepSeek.
               </p>
               <div className="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a
