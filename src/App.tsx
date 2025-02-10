@@ -126,7 +126,7 @@ function App() {
               </ol>
               <div className="mt-12 pt-12 border-t border-gray-100">
                 <a
-                  href="https://drive.google.com/drive/folders/1h5oo02t7GAsksrvea0iMeKrTofZcO4rY?usp=sharing"
+                  href="https://drive.google.com/file/d/1uH1m0bcw1GFtjMjSY0NFe0zygs3TtjTC/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group relative w-full flex items-center justify-center px-8 py-4 bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 text-white rounded-2xl font-medium transition-all duration-300 shadow-[0_1rem_2rem_-0.5rem_rgba(79,70,229,0.4)] hover:shadow-[0_1rem_2rem_-0.5rem_rgba(79,70,229,0.7)] hover:-translate-y-0.5"
